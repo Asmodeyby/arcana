@@ -1,3 +1,7 @@
+sentry
+config.js
+.idea
+
 # Logs
 logs
 *.log

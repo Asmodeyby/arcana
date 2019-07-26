@@ -20,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/Asmodeyby/arcana/issues"
   },
-  "homepage": "https://github.com/Asmodeyby/arcana#readme"
+  "homepage": "https://github.com/Asmodeyby/arcana#readme",
+  "dependencies": {
+    "dota2": "^7.0.3",
+    "steam": "^1.4.1"
+  }
 }
